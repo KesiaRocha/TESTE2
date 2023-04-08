@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-README de ListaResolvida
-=======
-Criando READme da lp
->>>>>>> 06633dcd0ba85f58f3162f0a61b271d08be00d02
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/125037138/230391731-fba49857-f54e-4eba-8d23-e771d8528e91.gif)
